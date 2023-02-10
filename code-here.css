@@ -3,16 +3,32 @@
   padding-left: 15px;
   padding-top: 15px;
   padding-right: 15px;
-  font-weight:50;
+  font-weight:550;
 
 }
 
 #modern {
+  text-align: center;
+  padding-left: 15px;
+  padding-top: 15px;
+  padding-right: 15px;
+  background-color:rgb(246, 202, 8);
+  font-weight: 1000;
+  font-size: medium;
+ 
 
 }
 
 #impact {
+text-align: center;
+padding:25px;
+font-weight: 900;
+font-size:large;
+background-color:rgba(6, 178, 80, 0.858);
+style:block;
 
+
+border:black, thick;
 }
 
 #elise {
